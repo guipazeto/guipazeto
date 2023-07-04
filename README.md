@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 ### Você pode entrar em contato comigo :mailbox
 
 guilherme.puks@escola.pr.gov.br
-![https://tenor.com/view/nilou-genshin-ult-genshin-impact-explosion-gif-13745974154712450744]
+![Nilou Genshin GIF - Nilou Genshin Ult - Discover & Share GIFs
+]
