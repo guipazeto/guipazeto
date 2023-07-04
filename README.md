@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Meu nome é Guilherme Pazeto
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+### Você pode entrar em contato comigo :mailbox
+
+guilherme.puks@escola.pr.gov.br
+![https://tenor.com/view/nilou-genshin-ult-genshin-impact-explosion-gif-13745974154712450744]
