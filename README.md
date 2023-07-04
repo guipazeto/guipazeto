@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 ### Você pode entrar em contato comigo :mailbox
 
 guilherme.puks@escola.pr.gov.br
-![Nilou Genshin GIF - Nilou Genshin Ult - Discover & Share GIFs
-]
