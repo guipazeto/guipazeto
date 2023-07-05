@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ### Você pode entrar em contato comigo :mailbox
 
 guilherme.puks@escola.pr.gov.br
-.gif[Klee doida](https://tenor.com/bUYXn.gif)
+!.gif[Klee doida](https://tenor.com/bUYXn.gif)
