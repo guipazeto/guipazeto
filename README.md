@@ -1,4 +1,4 @@
-### Oi!
+aASAsaSAsssSSAS    ### Oi!
 
 <!--
 **guipazeto/guipazeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ### Você pode entrar em contato comigo :mailbox
 
 guilherme.puks@escola.pr.gov.br
-![Klee doida](https://tenor.com/bUYXn.gif)
+.gif[Klee doida](https://tenor.com/bUYXn.gif)
